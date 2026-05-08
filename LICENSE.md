@@ -1,4 +1,4 @@
-
+advanced Little Snitch for macOS Module | phishing-detection + ad-blocker is the best Little Snitch for macOS module, featuring phishing-detection and ad-blocker. Secure,
 
 
 
